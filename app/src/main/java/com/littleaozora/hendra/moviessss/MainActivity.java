@@ -24,6 +24,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //Testing GitLab
+        //Testing GitLab2
+
         toolbar = (Toolbar) findViewById(R.id.app_bar);
         toolbar.setLogo(R.mipmap.ic_launcher);
         //toolbar.setTitle("");
